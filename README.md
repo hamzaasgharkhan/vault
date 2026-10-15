@@ -2,7 +2,7 @@
 
 An Android app for keeping private photos, videos and documents in encrypted vaults that belong to you, not to a cloud provider.
 
-Vault runs on **[Aqua](https://github.com/hamzaasgharkhan/FileSystem)**, a filesystem I wrote from scratch in Java. It encrypts everything (contents, file names and folder structure) with AES-256-GCM, using a key derived from your password. A vault is a self-contained folder that can be opened by any device running the library. No account or internet connection is needed.
+Vault runs on **[Aqua](https://github.com/hamzaasgharkhan/aqua)**, a filesystem I wrote from scratch in Java. It encrypts everything (contents, file names and folder structure) with AES-256-GCM, using a key derived from your password. A vault is a self-contained folder that can be opened by any device running the library. No account or internet connection is needed.
 
 ## Features
 
